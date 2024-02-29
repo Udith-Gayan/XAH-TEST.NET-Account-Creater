@@ -1,3 +1,7 @@
+## Clone the project and run `npm i` in the root folder.
+==================================
+
+
 # Commands
 1. `node index.js --createEVRaccounts`
 
